@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Kamat</h1>
-<h3 align="center">A passionate frontend developer from India. Passionate Electronics and Computer Engineering student with a deep interest in technology, problem-solving, and innovation. I love building projects that bridge the gap between hardware and software, and I'm always exploring new ways to create impactful solutions.</h3>
+<h3 align="center"> Passionate Electronics and Computer Engineering student with a deep interest in technology, problem-solving, and innovation. I love building projects that bridge the gap between hardware and software, and I'm always exploring new ways to create impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsoftwareeng&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsoftwareeng" /> </p>
 
